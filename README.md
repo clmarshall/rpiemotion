@@ -1,9 +1,11 @@
 # RPi Emotion
 Raspberry Pi, PiCam, Python and Azure FACE API to detect emotion and present the result.
 
+
 Purpose: 8th Grade Science Fair Project
 
 Inspiration: Children and Adults with Aspergers and Autisim often have difficulty interperting facial expressions of those around them and miss subtle social queues.
+
 
 Goal: Determine if low budget technology can be used to help those with these difficulties.
 
