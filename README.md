@@ -13,7 +13,7 @@ Raspberry Pi, PiCam, Python and Azure FACE API to detect emotion and present the
 - 1 x Raspberry Pi Zero W with Headers ($5)
 - 1 x Raspberry Pi Cam v2 ($20)
 - 1 x Raspberry Pi Zero Case w/ Camera Cover ($10) 
-- 1 x 16GB Micros SD w/ Raspbian ($7)
+- 1 x 16GB Micro SD w/ Raspbian ($7)
 - 3 x 470 Ohm Resistors ($1)
 - 1 x RGB LED (~$1)
 - 1 x- Breadboard ($3)
