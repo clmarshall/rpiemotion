@@ -19,5 +19,5 @@ Raspberry Pi, PiCam, Python and Azure FACE API to detect emotion and present the
 - 1 x- Breadboard ($3)
 
 ## Software:
--OS: Raspbian
--Langauge: Python 3.5.2
+- OS: Raspbian
+- Langauge: Python 3.5.2
