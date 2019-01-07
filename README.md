@@ -23,7 +23,7 @@ Raspberry Pi, PiCam, Python and Azure FACE API to detect emotion and present the
 - OS: Raspbian
 - Langauge: Python 3.5.2
 
-## Assebling the Project:
+## Assembling the Project:
 1. Connect the pi camera to the raspberry pi
 2. Incert the memory card
 3. Incert the raspberry pi and camera into the camera case and snap close
